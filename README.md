@@ -57,6 +57,7 @@ python manage.py runserver
 pytest
 ```
 pytest coverage - 93%
+
 Автоматическая документация доступна в файле [schema.yaml](https://github.com/trbldyth/barter_project/blob/main/schema.yaml)
 
 ### Автор:
